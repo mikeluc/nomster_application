@@ -66,5 +66,7 @@ gem 'devise'
 
 gem 'kaminari'
 
+gem 'geocoder'
 
+gem 'figaro'
 
