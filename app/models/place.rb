@@ -10,4 +10,6 @@ class Place < ApplicationRecord
   validates :name, length: { minimum: 3 }, presence: true 
   validates :name, :address, :description, presence: true
 
+  
+
 end
